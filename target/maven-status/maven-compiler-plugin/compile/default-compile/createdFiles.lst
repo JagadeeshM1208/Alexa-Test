@@ -1,0 +1,8 @@
+com\tavant\amazonAlexa\handlers\FallbackIntentHandler.class
+com\tavant\amazonAlexa\handlers\LaunchRequestHandler.class
+com\tavant\amazonAlexa\handlers\HelpIntentHandler.class
+com\tavant\amazonAlexa\handlers\SessionEndedRequestHandler.class
+com\tavant\amazonAlexa\handlers\CancelandStopIntentHandler.class
+com\tavant\amazonAlexa\handlers\HelloWorldIntentHandler.class
+com\tavant\amazonAlexa\SampleRequestHandler.class
+com\tavant\amazonAlexa\HelloWorldStreamHandler.class
